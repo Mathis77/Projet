@@ -1,0 +1,15 @@
+ = Affiche tout ce qu'il y a dans le dossier courant.
+ touch nomDuFichier.whatEver = créé un nouveau fichier
+ vi nomDuFichier.we = Ouvre le fichier avec Vim
+ cd .. = remonter dans le dossier parent
+ mkdir nomDuDossier = Créé un nouveau dossier
+ cd nomDuDossier = Entre dans le dossier
+ git mv NomDuFichier.we Destination(C:/Users/Axel...)
+ git add nomDuFichier.we = Ajoute un nouveau fichier à git / Update les changements du fichier dans git
+ git commit-m "Commentaire obligatoire" = Crée un nouveau point de sauvegarde
+ git push = Modifie ce qui a été fait et l'enregistre dans github
+ git status = Affiche les fichiers modifié, ajouté, supprimé qui n'ont pas été commit.
+ git diff  = Montre précisement les changements dans les fichiers
+ git help = Affiche toutes les commandes
+ git help nomDeLaCommande = Ouvre une page html avec toute la doc de la fonction
+ Si Ctrl+V marche pas : Shit+Insert
