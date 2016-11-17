@@ -1,4 +1,4 @@
- = Affiche tout ce qu'il y a dans le dossier courant.
+ ls = Affiche tout ce qu'il y a dans le dossier courant.
  touch nomDuFichier.whatEver = créé un nouveau fichier
  vi nomDuFichier.we = Ouvre le fichier avec Vim
  cd .. = remonter dans le dossier parent
